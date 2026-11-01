@@ -1,0 +1,7 @@
+float -> %f;
+
+double -> %lf ( long float )
+
+char -> %c
+
+int -> %d ( decimal )
